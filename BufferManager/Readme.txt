@@ -1,22 +1,3 @@
-Alex Chirayath achiraya@purdue.edu
-Kartik Killawala kkillawa@purdue.edu
-
-We have implemented the code together with each person concentrating more on certain modules as follows-
-
-Alex-
-1.Descriptor
-2.LRFU Replacer
-3.pinpage
-4.unpinpage
-5.getUnpinned
-6.freepage
-7.getnumBufs
-
-
-Kartik-
-1.newPage
-2.BufMgr
-3.HashTableModified
-4.flushpage
-5.flushAllPages
-
+I have implemented the Buffer Manager Layer for my CS541 Databases Course at Purdue in Fall 2016.
+The Buffer Manager was implemented using MiniBase class from Java
+I have used the LRFU page replacement policy as the page replacement policy.
